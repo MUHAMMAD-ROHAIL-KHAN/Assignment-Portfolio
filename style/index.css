@@ -498,14 +498,6 @@ body{
     height: 10%;
     background-color:blue   ;
 }
-.icon-I{
-    position: relative;
-    top: 155%;
-    right: 245%;
-
-    
-    
-}
 .design{
     position: relative;
     top: 28%;
@@ -521,13 +513,7 @@ body{
     
     
 }
-.icon-II{
-    position: relative;
-    top: 195%;
-    right: 340%;
 
-
-}
 .design-II{
     position: relative;
     top: 30%;
@@ -557,9 +543,16 @@ body{
     right: 7%;
     
 }
-.icon-III{
+
+.last-icons{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #363642;
+    border-radius: 50%;
     position: relative;
-    top: 205%;
-    right: 330%;
-    
+    top: 22%;
+    right: 22%;
 }
