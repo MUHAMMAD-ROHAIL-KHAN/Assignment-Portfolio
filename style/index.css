@@ -498,22 +498,6 @@ body{
     height: 10%;
     background-color:blue   ;
 }
-.icon-I{
-    position: relative;
-    top: 175%;
-    right: 248%;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #363642;
-    
-
-    
-    
-}
 .design{
     position: relative;
     top: 28%;
@@ -528,20 +512,6 @@ body{
     font-size: 92%;
     
     
-}
-.icon-II{
-    position: relative;
-    top: 195%;
-    right: 310%;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #363642;
-
-
 }
 .design-II{
     position: relative;
@@ -572,16 +542,15 @@ body{
     right: 7%;
     
 }
-.icon-III{
-    position: relative;
-    top: 190%;
-    right: 290%;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
+.last-icons{
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #363642;
-    
+    border-radius: 50%;
+    position: relative;
+    top: 22%;
+    right: 22%;
 }
